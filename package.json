@@ -1,32 +1,22 @@
 {
-  "name": "@wopjs/template",
+  "name": "@wopjs/gzip-size",
   "version": "0.1.0",
-  "description": "Collection of common utilities.",
-  "repository": "wopjs/template",
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
+  "description": "Print gzip size of a file.",
+  "repository": "wopjs/gzip-size",
+  "type": "module",
   "sideEffects": false,
+  "bin": "./cli.js",
   "files": [
-    "src",
-    "dist"
+    "cli.js"
   ],
   "scripts": {
-    "prepublishOnly": "npm run build",
     "lint": "eslint && prettier --check .",
-    "lint:fix": "eslint --fix && prettier --write .",
-    "ts-check": "tsc --noEmit",
-    "ts-watch": "tsc --noEmit -w",
-    "docs": "typedoc --options typedoc.json && prettier --ignore-path .prettierignore --write docs",
-    "test": "vitest",
-    "test:coverage": "vitest --coverage --coverage.include=src/**",
-    "test:ci": "vitest --coverage --coverage.reporter=lcov --coverage.include=src/**",
-    "build": "tsup",
-    "build:min": "MINIFY=true tsup && node scripts/gzip.mjs",
-    "release": "commit-and-tag-version"
+    "lint:fix": "eslint --fix && prettier --write ."
   },
   "keywords": [
-    "template"
+    "gzip",
+    "size",
+    "cli"
   ],
   "maintainers": [
     {
@@ -41,19 +31,14 @@
     }
   ],
   "license": "MIT",
+  "dependencies": {
+    "gzip-size": "^7.0.0",
+    "pretty-bytes": "^6.1.1",
+    "yoctocolors": "^2.1.1"
+  },
   "devDependencies": {
     "@wopjs/eslint-config": "^0.1.4",
-    "@types/node": "^22.10.7",
-    "@vitest/coverage-v8": "^3.0.2",
-    "commit-and-tag-version": "^12.5.0",
     "eslint": "^9.18.0",
-    "gzip-size": "^7.0.0",
-    "prettier": "^3.4.2",
-    "pretty-bytes": "^6.1.1",
-    "tsup": "^8.3.5",
-    "typedoc": "^0.27.6",
-    "typescript": "^5.7.3",
-    "vitest": "^3.0.2",
-    "yoctocolors": "^2.1.1"
+    "prettier": "^3.4.2"
   }
 }
