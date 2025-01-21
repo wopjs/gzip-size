@@ -2,12 +2,13 @@
 
 [![Build Status](https://github.com/wopjs/gzip-size/actions/workflows/build.yml/badge.svg)](https://github.com/wopjs/gzip-size/actions/workflows/build.yml)
 [![npm-version](https://img.shields.io/npm/v/@wopjs/gzip-size.svg)](https://www.npmjs.com/package/@wopjs/gzip-size)
+
 Print gzip size of a file.
 
 ## Install
 
 ```
-npm add @wopjs/gzip-size
+npm add -D @wopjs/gzip-size
 ```
 
 ## Usage
