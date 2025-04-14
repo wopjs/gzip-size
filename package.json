@@ -37,7 +37,7 @@
     "yoctocolors": "^2.1.1"
   },
   "devDependencies": {
-    "@wopjs/eslint-config": "^0.1.18",
+    "@wopjs/eslint-config": "^0.1.19",
     "eslint": "^9.24.0",
     "prettier": "^3.5.3"
   }
