@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.3](https://github.com/wopjs/gzip-size/compare/v0.1.2...v0.1.3) (2025-09-03)
+
+
+### Build System
+
+* **deps-dev:** bump the dev-deps group with 2 updates ([#18](https://github.com/wopjs/gzip-size/issues/18)) ([5815196](https://github.com/wopjs/gzip-size/commit/58151968fbae066ae5bdd33e699ce37f06777f39))
+* **deps-dev:** bump the dev-deps group with 2 updates ([#20](https://github.com/wopjs/gzip-size/issues/20)) ([d2f17c2](https://github.com/wopjs/gzip-size/commit/d2f17c2c15d720ce11a36f45c3fd873eafcd9f0b))
+* **deps-dev:** bump the dev-deps group with 2 updates ([#21](https://github.com/wopjs/gzip-size/issues/21)) ([022c113](https://github.com/wopjs/gzip-size/commit/022c113afc9b572f475b5036cce6239e700e9f29))
+* **deps-dev:** bump the dev-deps group with 3 updates ([#19](https://github.com/wopjs/gzip-size/issues/19)) ([7c979b9](https://github.com/wopjs/gzip-size/commit/7c979b96c792a48c24c06b38473d92c6496c2980))
+* **deps:** bump the prod-deps group with 2 updates ([#22](https://github.com/wopjs/gzip-size/issues/22)) ([8f50216](https://github.com/wopjs/gzip-size/commit/8f5021602ff81e56451d37362541050ae225774e))
+
 ## [0.1.2](https://github.com/wopjs/gzip-size/compare/v0.1.1...v0.1.2) (2025-05-02)
 
 
