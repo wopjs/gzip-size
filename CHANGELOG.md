@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/wopjs/gzip-size/compare/v0.1.3...v0.1.4) (2025-10-02)
+
+
+### Build System
+
+* **deps-dev:** bump the dev-deps group with 2 updates ([#24](https://github.com/wopjs/gzip-size/issues/24)) ([1de052a](https://github.com/wopjs/gzip-size/commit/1de052aef312d920a751db3e2532e7e07e26735f))
+* **deps:** bump pretty-bytes in the prod-deps group ([#25](https://github.com/wopjs/gzip-size/issues/25)) ([1130e5a](https://github.com/wopjs/gzip-size/commit/1130e5aa9468222e37e3fc2eaa880393dbb0eb85))
+
 ## [0.1.3](https://github.com/wopjs/gzip-size/compare/v0.1.2...v0.1.3) (2025-09-03)
 
 
