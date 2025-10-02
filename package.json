@@ -33,7 +33,7 @@
   "license": "MIT",
   "dependencies": {
     "gzip-size": "^7.0.0",
-    "pretty-bytes": "^7.0.1",
+    "pretty-bytes": "^7.1.0",
     "yoctocolors": "^2.1.2"
   },
   "devDependencies": {
