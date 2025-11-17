@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.5](https://github.com/wopjs/gzip-size/compare/v0.1.4...v0.1.5) (2025-11-17)
+
+
+### Build System
+
+* **deps-dev:** bump js-yaml from 4.1.0 to 4.1.1 ([#28](https://github.com/wopjs/gzip-size/issues/28)) ([0a8fb4b](https://github.com/wopjs/gzip-size/commit/0a8fb4bf8147256ebc35de05b08bbee375f732bb))
+* **deps-dev:** bump the dev-deps group with 2 updates ([#27](https://github.com/wopjs/gzip-size/issues/27)) ([21b44df](https://github.com/wopjs/gzip-size/commit/21b44dfe54b33916f473c13336fec186781f79de))
+
 ## [0.1.4](https://github.com/wopjs/gzip-size/compare/v0.1.3...v0.1.4) (2025-10-02)
 
 
