@@ -1,6 +1,6 @@
 {
   "name": "@wopjs/gzip-size",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Print gzip size of a file.",
   "repository": "wopjs/gzip-size",
   "type": "module",
