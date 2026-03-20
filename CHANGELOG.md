@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.7](https://github.com/wopjs/gzip-size/compare/v0.1.6...v0.1.7) (2026-03-20)
+
+
+### Build System
+
+* **deps-dev:** bump flatted from 3.3.1 to 3.4.2 ([#36](https://github.com/wopjs/gzip-size/issues/36)) ([6d94053](https://github.com/wopjs/gzip-size/commit/6d9405361792685e632ab84e76032608371f5a19))
+* **deps-dev:** bump the dev-deps group with 2 updates ([#35](https://github.com/wopjs/gzip-size/issues/35)) ([358d508](https://github.com/wopjs/gzip-size/commit/358d5080efc4d81cdef84491b1f853be37c9b2d5))
+
 ## [0.1.6](https://github.com/wopjs/gzip-size/compare/v0.1.5...v0.1.6) (2026-02-28)
 
 
