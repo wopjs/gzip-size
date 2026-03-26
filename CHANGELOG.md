@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.8](https://github.com/wopjs/gzip-size/compare/v0.1.7...v0.1.8) (2026-03-26)
+
+
+### Build System
+
+* **deps-dev:** bump picomatch from 4.0.3 to 4.0.4 ([#38](https://github.com/wopjs/gzip-size/issues/38)) ([fc58e72](https://github.com/wopjs/gzip-size/commit/fc58e72080c54908605e01fbc99510be3fc3daa3))
+
 ## [0.1.7](https://github.com/wopjs/gzip-size/compare/v0.1.6...v0.1.7) (2026-03-20)
 
 
