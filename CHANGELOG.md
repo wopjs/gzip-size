@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.11](https://github.com/wopjs/gzip-size/compare/v0.1.10...v0.1.11) (2026-09-04)
+
+
+### Build System
+
+* **deps-dev:** bump @humanfs/node from 0.16.6 to 0.16.8 ([#50](https://github.com/wopjs/gzip-size/issues/50)) ([24bcdd5](https://github.com/wopjs/gzip-size/commit/24bcdd55067465314fd166aa7d76c0846cefcbb2))
+
 ## [0.1.10](https://github.com/wopjs/gzip-size/compare/v0.1.9...v0.1.10) (2026-09-02)
 
 
