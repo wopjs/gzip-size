@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.13](https://github.com/wopjs/gzip-size/compare/v0.1.12...v0.1.13) (2026-11-02)
+
+
+### Build System
+
+* **deps-dev:** bump brace-expansion from 5.0.9 to 5.0.12 ([#56](https://github.com/wopjs/gzip-size/issues/56)) ([31241ed](https://github.com/wopjs/gzip-size/commit/31241ed9ab930975d6c1edefd315ac25bf276ffd))
+* **deps-dev:** bump the dev-deps group with 3 updates ([#55](https://github.com/wopjs/gzip-size/issues/55)) ([198568b](https://github.com/wopjs/gzip-size/commit/198568be2089e5f5709cca16741e5806a8026647))
+
 ## [0.1.12](https://github.com/wopjs/gzip-size/compare/v0.1.11...v0.1.12) (2026-10-02)
 
 
